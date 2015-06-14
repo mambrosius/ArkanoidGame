@@ -1,8 +1,8 @@
 # arkanoid - Programming projekt
 
-git console commands:
+git console commands: \n\n
 
-git status
+git status \n
 gtt add
 git commit
 git push
