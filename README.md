@@ -1,6 +1,6 @@
 # arkanoid - Programming projekt
 
-git console commands: \n\n
+# git console commands: \n\n
 
 git status \n
 gtt add
