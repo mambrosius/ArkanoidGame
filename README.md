@@ -2,7 +2,7 @@
 
 **git console commands:**
 
-git status 
+git status
 
 gtt add
 
