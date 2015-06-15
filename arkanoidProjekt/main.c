@@ -2,15 +2,15 @@
 #include <sio.h>
 #include "ansi.h"
 
-long millis=0;
-long ball_timer=0;
+long millis = 0;
+long ball_timer = 0;
 
 #pragma interrupt
 int timer0int(){
 	millis++;
 	ball_timer++;
-
 }
+<
 void timersetup(){
 
 	DI();
