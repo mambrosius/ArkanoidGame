@@ -1,6 +1,7 @@
 #include <eZ8.h>
 #include <sio.h>
 #include "ansi.h"
+#include "trigonometry.h"
 
 long millis = 0;
 long ball_timer = 0;
