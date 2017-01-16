@@ -1,4 +1,4 @@
-# arkanoid - Programming projekt
+# arkanoid - Programming project
 
 **git console commands:**
 
